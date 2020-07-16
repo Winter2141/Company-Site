@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Plugin\n"
+"POT-Creation-Date: 2014-04-23 10:15+0100\n"
+"PO-Revision-Date: 2014-04-23 10:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: WEBSELF Team <assistenza@webself.it>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/mega-functions.php:97
+#, php-format
+msgid "View all file in %s"
+msgstr ""
+
+#: ../inc/mega-functions.php:99
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../inc/mega-functions.php:202
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/mega-functions.php:206
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/mega-functions.php:210
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/mega-functions.php:236
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/mega-functions.php:239
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../inc/mega-functions.php:240
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/mega-functions.php:256
+msgid "Sticky"
+msgstr ""
+
+#: ../inc/mega-functions.php:277
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/mega-functions.php:291
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../inc/mega-functions.php:297
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../inc/menus.php:15
+msgid "FlatFolio Options"
+msgstr ""
+
+#: ../inc/menus.php:15
+msgid "Settings"
+msgstr ""
+
+#: ../inc/metaboxes.php:23
+msgid "Format Options"
+msgstr ""
+
+#: ../inc/metaboxes.php:26
+msgid "Link Options"
+msgstr ""
+
+#: ../inc/metaboxes.php:29
+msgid "Extra Fields"
+msgstr ""
+
+#: ../inc/metaboxes.php:32
+msgid "Social Share"
+msgstr ""
+
+#: ../inc/metaboxes.php:39
+msgid "FlatFolio Template"
+msgstr ""
+
+#: ../inc/metaboxes.php:62
+msgid ""
+"You selected <b>IMAGE</b> Format, so you only need to attach a preview image "
+"to the post using the WP's Featured Image tool to the right."
+msgstr ""
+
+#: ../inc/metaboxes.php:68
+msgid "Video Type:"
+msgstr ""
+
+#: ../inc/metaboxes.php:75
+msgid "Video ID:"
+msgstr ""
+
+#: ../inc/metaboxes.php:85
+msgid "Audio Code:"
+msgstr ""
+
+#: ../inc/metaboxes.php:116
+msgid "Link Type:"
+msgstr ""
+
+#: ../inc/metaboxes.php:125
+msgid "Custom Url:"
+msgstr ""
+
+#: ../inc/metaboxes.php:130
+msgid "Link Target:"
+msgstr ""
+
+#: ../inc/metaboxes.php:138
+msgid "Button Label:"
+msgstr ""
+
+#: ../inc/metaboxes.php:189
+msgid "Label 1:"
+msgstr ""
+
+#: ../inc/metaboxes.php:199
+msgid "Value 1:"
+msgstr ""
+
+#: ../inc/metaboxes.php:204
+msgid "Label 2:"
+msgstr ""
+
+#: ../inc/metaboxes.php:214
+msgid "Value 2:"
+msgstr ""
+
+#: ../inc/metaboxes.php:219
+msgid "Label 3:"
+msgstr ""
+
+#: ../inc/metaboxes.php:229
+msgid "Value 3:"
+msgstr ""
+
+#: ../inc/metaboxes.php:234
+msgid "Label 4:"
+msgstr ""
+
+#: ../inc/metaboxes.php:244
+msgid "Value 4:"
+msgstr ""
+
+#: ../inc/metaboxes.php:249
+msgid "Label 5:"
+msgstr ""
+
+#: ../inc/metaboxes.php:259
+msgid "Value 5:"
+msgstr ""
+
+#: ../inc/metaboxes.php:264
+msgid "<em>(Each field you leave blank will be disabled)</em>"
+msgstr ""
+
+#: ../inc/metaboxes.php:288
+msgid "Facebook:"
+msgstr ""
+
+#: ../inc/metaboxes.php:295
+msgid "Twitter:"
+msgstr ""
+
+#: ../inc/metaboxes.php:302
+msgid "Linkedin:"
+msgstr ""
+
+#: ../inc/metaboxes.php:309
+msgid "Pinterest:"
+msgstr ""
+
+#: ../inc/sidebars.php:12
+msgid "Blank Plugin Sidebar 1"
+msgstr ""
+
+#: ../inc/sidebars.php:14 ../inc/sidebars.php:28
+msgid "Here you can add widgets for Blank Plugin"
+msgstr ""
+
+#: ../inc/sidebars.php:26
+msgid "Blank Plugin Sidebar 2"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:16
+msgid "FlatFolio Projects"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:17
+msgid "Project"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:18
+msgid "Add New"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:19
+msgid "Add New Project"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:20
+msgid "Edit Project"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:21
+msgid "New Project"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:22
+msgid "All Projects"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:23
+msgid "View Project"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:24
+msgid "Search Projects"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:25
+msgid "No project found"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:26
+msgid "No project found in Trash"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:28
+msgid "FlatFolio"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:54
+msgid "Thumb"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:79 ../inc/posttypes/flatfolio.php:89
+msgid "Categories"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:80
+msgid "Category"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:81
+msgid "Search Categories"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:82
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:83
+msgid "Parent Category"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:84
+msgid "Parent Category:"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:85
+msgid "Edit Category"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:86
+msgid "Update Category"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:87
+msgid "Add New Category"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:88
+msgid "New Genre Category"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:117
+#, php-format
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:118
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:119
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:120
+msgid "Project updated."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:122
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:123
+#, php-format
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:124
+msgid "Project saved."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:125
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:126
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:128
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:129
+#, php-format
+msgid ""
+"Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:145
+msgid "Things to remember when adding or editing a book:"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:147
+msgid "Specify the correct genre such as Mystery, or Historic."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:148
+msgid ""
+"Specify the correct writer of the book.  Remember that the Author module "
+"refers to you, the author of this book review."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:150
+msgid "If you want to schedule the book review to be published in the future:"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:152
+msgid "Under the Publish module, click on the Edit link next to Publish."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:153
+msgid ""
+"Change the date to the date to actual publish this article, then click on Ok."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:155
+msgid "For more information:"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:156
+msgid ""
+"<a href=\"http://codex.wordpress.org/Posts_Edit_SubPanel\" target=\"_blank"
+"\">Edit Posts Documentation</a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:157
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:160
+msgid "This is the help screen displaying the table of books blah blah blah."
+msgstr ""
+
+#: ../inc/posttypes/flatfolio.php:296
+msgid "Save"
+msgstr ""

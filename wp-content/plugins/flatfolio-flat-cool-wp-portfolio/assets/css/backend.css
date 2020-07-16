@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document 
+File: assets/css/backend.css
+Description: Css classes for backend views
+Plugin: FlatFolio
+Author: Alessio Marzo
+*/
+
+.post-type-flatfolio textarea.large {
+	width:50%;
+	height:300px;
+}
+
+.post-type-flatfolio textarea.xlarge {
+	width:80%;
+	height:500px;
+}
+
+/* Custom styles to remove the Standard option from the view in the post page */
+.post-type-flatfolio #post-format-0,
+.post-type-flatfolio .post-format-standard, 
+.post-type-flatfolio .post-format-standard + br {
+    display:none!important;
+}
+
+.post-type-flatfolio .meta-box-sortables label {
+	min-width:100px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+.post-type-flatfolio .field-row {
+	margin-top:15px;
+}
+
+.post-type-flatfolio .medium-text {
+	width:400px;
+	height:200px;
+}
